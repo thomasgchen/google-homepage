@@ -1,0 +1,30 @@
+#logo {
+  display: block;
+  margin: auto;
+  height: auto;
+  width: 25%;
+  position: relative;
+  top: 200px;
+}
+
+input {
+  position: relative;
+  top: 225px;
+  width: 45%;
+  height: 35px;
+  display: block;
+  margin: auto;
+}
+
+.buttons {
+  position: relative;
+  top: 250px;
+  padding: 10px 20px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  border: none;
+  border-radius: 2px;
+  background-color: #F0F0F0;
+  color: #808080;
+  left: 440px;
+}
